@@ -1,0 +1,24 @@
+body {
+  color: gray;
+  font-size: 25px;
+  background-color: #FFA500;
+}
+h1 {
+  color: DimGray;
+  font-size: 40px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+nav: hover {
+   color: #CE242B;
+}
+.a: hover {
+   color: #CE242B;
+}
+.profile-photo {
+    border-radius: 10px;
+    border: 3px solid #2c3e50;
+    margin-top: 10px;
+}
